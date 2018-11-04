@@ -1,0 +1,4 @@
+[
+    {"keys": ["ctrl+h", "ctrl+s"], "command": "ht_sort", "args": {"order": 0}},
+    {"keys": ["ctrl+h", "ctrl+j"], "command": "ht_jump"},
+]

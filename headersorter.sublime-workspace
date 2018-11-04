@@ -1,0 +1,1014 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"strptime\tfunction"
+			],
+			[
+				"fltInt",
+				"fltIntensity\tstatement"
+			],
+			[
+				"fltIn",
+				"fltIntensity\tstatement"
+			],
+			[
+				"fltMax",
+				"fltMaxMassDiff\tstatement"
+			],
+			[
+				"lo",
+				"load_netcdf\tfunction"
+			],
+			[
+				"flt",
+				"fltMassScale\tstatement"
+			],
+			[
+				"nc",
+				"ncData\tstatement"
+			],
+			[
+				"lst",
+				"lstPages\tstatement"
+			],
+			[
+				"lstC",
+				"lstCtnt\tstatement"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"f",
+				"find\tfunction"
+			],
+			[
+				"load",
+				"loadVGA"
+			],
+			[
+				"dct",
+				"dctOut\tstatement"
+			],
+			[
+				"number",
+				"numbers\tstatement"
+			],
+			[
+				"intVal",
+				"intValue\tparam"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"add",
+				"addNumber"
+			],
+			[
+				"update",
+				"updateGridpos"
+			],
+			[
+				"xS",
+				"xSize"
+			],
+			[
+				"Soun",
+				"SoundBuffer"
+			],
+			[
+				"from",
+				"fromFile\tfunction"
+			],
+			[
+				"to",
+				"toFile\tfunction"
+			],
+			[
+				"Vectro2",
+				"Vector2"
+			],
+			[
+				"Draw",
+				"Drawable"
+			],
+			[
+				"grid",
+				"gridpos"
+			],
+			[
+				"Grid",
+				"gridpos\tstatement"
+			],
+			[
+				"upd",
+				"updateGridpos\tfunction"
+			],
+			[
+				"gro",
+				"gridpos"
+			],
+			[
+				"can",
+				"canMove\tfunction"
+			],
+			[
+				"is",
+				"isFull\tfunction"
+			],
+			[
+				"m",
+				"moveRight\tfunction"
+			],
+			[
+				"get",
+				"getRow\tfunction"
+			],
+			[
+				"a",
+				"addNumber"
+			],
+			[
+				"ra",
+				"randint\tstatement"
+			],
+			[
+				"clr",
+				"clrRect\tstatement"
+			],
+			[
+				"del",
+				"delpngs\tfunction"
+			],
+			[
+				"rm",
+				"remove\tfunction"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"t",
+				"tileType\tstatement"
+			],
+			[
+				"T",
+				"Tile\tclass"
+			],
+			[
+				"loadT",
+				"loadTiles\tfunction"
+			],
+			[
+				"ani",
+				"animHandler\tstatement"
+			],
+			[
+				"ti",
+				"tileVariant\tstatement"
+			],
+			[
+				"imp",
+				"intMaxPop\tparam"
+			],
+			[
+				"max",
+				"intMaxLevel"
+			],
+			[
+				"anim",
+				"animHandler"
+			],
+			[
+				"A",
+				"AnimationHandler\tclass"
+			],
+			[
+				"game",
+				"gameView\tstatement"
+			],
+			[
+				"ga",
+				"gameLoop\tfunction"
+			],
+			[
+				"FOV",
+				"FOV_LIGHT_WALLS\tstatement"
+			],
+			[
+				"block",
+				"blockSight"
+			],
+			[
+				"MAP",
+				"MAP_WIDTH\tstatement"
+			],
+			[
+				"str",
+				"strText\tstatement"
+			],
+			[
+				"dark",
+				"dark_wall"
+			],
+			[
+				"col",
+				"lstCol"
+			],
+			[
+				"create",
+				"createHTunnel\tfunction"
+			],
+			[
+				"WIDTH",
+				"MAP_WIDTH"
+			],
+			[
+				"MIN",
+				"ROOM_MIN"
+			],
+			[
+				"MAX",
+				"ROOM_MAX"
+			],
+			[
+				"bloc",
+				"blockMove"
+			],
+			[
+				"dra",
+				"draw_char"
+			],
+			[
+				"url",
+				"urlopen"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"dist",
+				"distances"
+			],
+			[
+				"be",
+				"bepa\tbeginPath()"
+			],
+			[
+				"sc",
+				"source\tTag"
+			],
+			[
+				"che",
+				"check_output\tfunction"
+			],
+			[
+				"flask",
+				"flask_socketio\tmodule"
+			],
+			[
+				"strM",
+				"strFMsg\tstatement"
+			],
+			[
+				"comm",
+				"commit"
+			],
+			[
+				"dis",
+				"disconnect"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"socket",
+				"flask_socketio"
+			],
+			[
+				"exec",
+				"execmd\tfunction"
+			],
+			[
+				"e",
+				"emit"
+			],
+			[
+				"fil",
+				"filter_by"
+			],
+			[
+				"cu",
+				"current_user"
+			],
+			[
+				"re",
+				"render_template"
+			],
+			[
+				"u",
+				"ulegr"
+			],
+			[
+				"Compos",
+				"Composite"
+			],
+			[
+				"canv",
+				"canvasHeight"
+			],
+			[
+				"viewAll",
+				"viewAllTags\tstatement"
+			],
+			[
+				"viewA",
+				"viewAllTags\tstatement"
+			],
+			[
+				"all",
+				"allskills_view\tstatement"
+			],
+			[
+				"skill",
+				"skilltags_view\tstatement"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			],
+			[
+				"d",
+				"dumps\tfunction"
+			],
+			[
+				"n",
+				"now"
+			],
+			[
+				"byname",
+				"byname_view"
+			],
+			[
+				"by",
+				"byname_view"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"margn",
+				"margin-left"
+			],
+			[
+				"list",
+				"list-style-position"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"borderr",
+				"border-radius"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"La",
+				"LaTeX\tlatex-document"
+			],
+			[
+				"include",
+				"includegraphics{name}\tlatex-document"
+			],
+			[
+				"usetheme",
+				"usetheme{name list}\tclass-beamer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "headersorter.py",
+			"settings":
+			{
+				"buffer_size": 530,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/glslViewer/GLSL.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/glslViewer/GLSL.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"py",
+				"SublimeREPL: Python"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"csv",
+				"Set Syntax: Advanced CSV"
+			],
+			[
+				"cache",
+				"LaTeXing: Rebuild Cache (Hard)"
+			],
+			[
+				"Marklive",
+				"MarkdownLivePreview: Edit Current File"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 436.0
+	},
+	"console":
+	{
+		"height": 390.0,
+		"history":
+		[
+			"view.run_command('headersorter')",
+			"window",
+			"view.run_command('headersorter')",
+			"view.run_command('example')",
+			"view.run_command('headersorte')",
+			"view.run_command('headersorter')",
+			"view.run_command(\"sortheaders\")",
+			"view.run_command('headerSort')",
+			"view.run_command('headerSorter')",
+			"view.run_command('headersorter')",
+			"print(\"xxx\")",
+			"view.run_command('headersorter')",
+			"dir(view)",
+			"view",
+			"view.runCommand('headersorter')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/christian/Library/Mobile Documents/com~apple~CloudDocs/Sublime Text 3 Sync/User/headersorter"
+	],
+	"file_history":
+	[
+		"/Users/christian/Library/Logs/Unity/Player.log",
+		"/Users/christian/Library/Mobile Documents/com~apple~CloudDocs/programming/diggerrl/diggerrl.py",
+		"/Users/christian/Downloads/GROUND0O.DAT",
+		"/Users/christian/Library/Mobile Documents/com~apple~CloudDocs/df_osx/data/init/embark_profiles.txt",
+		"/Users/christian/www/index.php",
+		"/usr/local/etc/httpd/httpd.conf",
+		"/usr/local/etc/apache2/2.4/httpd.conf",
+		"/etc/apache2/httpd.conf",
+		"/Users/christian/Nextcloud/projects/miami/miami_suite/visualization/miami.js",
+		"/Users/christian/Library/Mobile Documents/com~apple~CloudDocs/programming/gcms/gcms/gcms/templateinstantiations.cpp",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/__tree",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/algorithm",
+		"/Users/christian/Library/Mobile Documents/com~apple~CloudDocs/programming/gcms/gcms/gcms/spectrumpeak.h",
+		"/Users/christian/Library/Mobile Documents/com~apple~CloudDocs/programming/gcms/gcms/gcms/spectrumpeak.cpp",
+		"/Users/christian/programming/2048/2048.py",
+		"/Users/christian/Library/Mobile Documents/com~apple~CloudDocs/Sublime Text 3 Sync/User/header_sorter.py",
+		"/Users/christian/programming/diggerrl/diggerrl.py",
+		"/Users/christian/Library/Mobile Documents/com~apple~CloudDocs/gcms/pyGCMS/gcms.py",
+		"/Users/christian/Library/Mobile Documents/com~apple~CloudDocs/gcms/pyGCMS/spectra.pkl",
+		"/Users/christian/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/656479C8-7313-405E-A0E5-02DDEB9A4D0E/_chat.txt",
+		"/usr/local/opt/python/libexec/bin/pip",
+		"/Users/christian/Documents/Curse/Minecraft/Install/launcher_profiles.json",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/TombManyGraves/savedInventories/ChadDean#latest.json",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/TombManyGraves/savedInventories/ChadDean#07_23_2018_09_53_54.json",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/TombManyGraves/savedInventories/ChadDean#07_23_2018_09_52_23.json",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/TombManyGraves/savedInventories/ChadDean#07_23_2018_09_55_13.json",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/TombManyGraves/savedInventories/ChadDean#07_23_2018_09_54_29.json",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/TombManyGraves/savedInventories/ChadDean#07_21_2018_10_27_34.json",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/TombManyGraves/savedInventories/ChadDean#07_20_2018_09_06_44.json",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/TombManyGraves/savedInventories/ChadDean#07_19_2018_22_09_14.json",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/TombManyGraves/savedInventories/ChadDean#07_19_2018_22_12_26.json",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/TombManyGraves/savedInventories/ChadDean#07_19_2018_22_13_50.json",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/TombManyGraves/savedInventories/ChadDean#07_07_2018_22_38_30.json",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/TombManyGraves/savedInventories/ChadDean#07_07_2018_22_03_34.json",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/minecraftinstance.json",
+		"/Users/christian/Library/Mobile Documents/com~apple~CloudDocs/private/briefe/info_huk24.tex",
+		"/Users/christian/Library/Mobile Documents/com~apple~CloudDocs/private/briefe/kuendigung_ngg.tex",
+		"/Users/christian/Documents/private/bafoeg.tex",
+		"/Users/christian/Library/Mobile Documents/com~apple~CloudDocs/private/briefe/Output/bafoeg.log",
+		"/Users/christian/Library/Mobile Documents/com~apple~CloudDocs/private/briefe/bafoeg.tex",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/saves/Alpha Centauri/playerdata/_ChadDean.invo",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/usercache.json",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/saves/Alpha Centauri/NEI/server.cfg",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/saves/Alpha Centauri/NEI/banneditems.cfg",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/saves/Alpha Centauri/NEI/players/ChadDean.dat",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/saves/Alpha Centauri/stats/ff81395b-ba15-4cb7-a3e2-f400d71b6af3.json",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/saves/Alpha Centauri/traverse/instance_version.json",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/saves/Alpha Centauri/DIM1/data/buildcraft_wire_systems.dat",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/mputils/settings.dat",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/structures/inactive/BabylonTower.rcst",
+		"/Users/christian/Library/Mobile Documents/com~apple~CloudDocs/private/briefe/kuendigung_ngg Kopie.tex",
+		"/Users/christian/Documents/Curse/Minecraft/Instances/SevTech: Ages/manifest.json",
+		"/Users/christian/Library/Mobile Documents/com~apple~CloudDocs/abfallkalender/abfallkalender.py",
+		"/Users/christian/programming/nameparser.py",
+		"/Users/christian/Downloads/nameparser.py",
+		"/Users/christian/Downloads/Pizza Tycoon/GFX/BLITMAP1.VGA",
+		"/Users/christian/Downloads/Pizza Tycoon/BOB/GAESTE.BOB",
+		"/Users/christian/Downloads/Pizza Tycoon/GFX/OFFSETS2",
+		"/Users/christian/Downloads/Pizza Tycoon/GFX/OFFSETS1",
+		"/Users/christian/2048/rect.frag",
+		"/usr/local/lib/python2.7/site-packages/pySFML-2.3.2.dev1-py2.7-macosx-10.13-x86_64.egg",
+		"/Users/christian/2048/test.py",
+		"/Users/christian/2048/2048.py",
+		"/Users/christian/2048/2048.spec",
+		"/Users/christian/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/christian/Library/Mobile Documents/com~apple~CloudDocs/Sublime Text 3 Sync/User/SublimeLinter (old).sublime-settings",
+		"/Users/christian/sfml-test/gamestate.py",
+		"/Users/christian/sfml-test/main.py",
+		"/Users/christian/sfml-test/map.py",
+		"/Users/christian/Downloads/Pizza Tycoon/DAT/city.py",
+		"/Users/christian/Downloads/Pizza Tycoon/CHR/character.py",
+		"/Users/christian/Downloads/Pizza Tycoon/DAT/map.py",
+		"/Users/christian/Downloads/Pizza Tycoon/GFX/gfx.py",
+		"/Users/christian/Downloads/dosbox-0.74/README",
+		"/Users/christian/Downloads/dosbox-0.74/configure",
+		"/Users/christian/Library/Preferences/DOSBox 0.74 Preferences",
+		"/Users/christian/Downloads/Pizza Tycoon/DAT/bez.py",
+		"/Users/christian/sfml-test/animationhandler.py",
+		"/Users/christian/sfml-test/tile.py",
+		"/Users/christian/sfml-test/texturemanager.py",
+		"/Users/christian/sfml-test/basestate.py",
+		"/Users/christian/sfml-test/startstate.py",
+		"/Users/christian/sfml-test/editorstate.py",
+		"/Users/christian/sfml-test/game.py",
+		"/Users/christian/Downloads/Pizza Tycoon/GFX/PALETTE.E",
+		"/Users/christian/Downloads/dosbox-0.74/src/gui/sdlmain.cpp",
+		"/Users/christian/Downloads/Pizza Tycoon/D/KACHINFO.PC",
+		"/Users/christian/Downloads/Pizza Tycoon/D/HISCORES.PIZ",
+		"/Users/christian/Downloads/Pizza Tycoon/M/0.MIS",
+		"/Users/christian/Downloads/Pizza Tycoon/SOUND/M0",
+		"/Users/christian/Downloads/Pizza Tycoon/T/ACTION.E",
+		"/Users/christian/Downloads/Pizza Tycoon/DRIVERS.CAT",
+		"/Users/christian/Downloads/Pizza Tycoon/INSTALL.DAT",
+		"/Users/christian/Downloads/Pizza Tycoon/VECTOR.COM",
+		"/Users/christian/Downloads/Pizza Tycoon/Thumbs.db",
+		"/Users/christian/Downloads/Pizza Tycoon/SOUND.CFG",
+		"/Users/christian/Downloads/idados-master/BUILD.md",
+		"/Users/christian/Downloads/Pizza Tycoon/F/F1.PC",
+		"/Users/christian/Downloads/Pizza Tycoon/GFX/EUROMAP.VGA",
+		"/Users/christian/Downloads/Pizza Tycoon/PIZZA.BAT",
+		"/Users/christian/Downloads/Pizza Tycoon/GFX/BACK1.VGA",
+		"/Users/christian/Downloads/Pizza Tycoon/DAT/BEZ0.DAT",
+		"/Users/christian/Downloads/Pizza Tycoon/DAT/MAP0.DAT",
+		"/Users/christian/Downloads/Pizza Tycoon/CHR/C2E.PC",
+		"/Users/christian/Downloads/Pizza Tycoon/CHR/C0E.PC",
+		"/Users/christian/Downloads/Pizza Tycoon/DAT/CITY1.PC",
+		"/Users/christian/Downloads/Pizza Tycoon/GAME/TEST.GAM",
+		"/Users/christian/Downloads/Pizza Tycoon/GFX/OFFSETS3",
+		"/Users/christian/Downloads/Pizza Tycoon/FONTS/ASTANDAR.FNT",
+		"/Users/christian/Downloads/Pizza Tycoon/DAT/BEZ2.DAT",
+		"/Users/christian/Downloads/Pizza Tycoon/DAT/BEZ1.DAT",
+		"/Users/christian/Downloads/Pizza Tycoon/DAT/CITY0.PC",
+		"/Users/christian/Downloads/Pizza Tycoon/C0",
+		"/Users/christian/Downloads/Pizza Tycoon/Z/ARTIKEL1.E",
+		"/Users/christian/Downloads/Pizza Tycoon/Z/ARTIKEL0.E",
+		"/Users/christian/Downloads/Pizza Tycoon/Z/ZB1.VGA",
+		"/Users/christian/Downloads/Pizza Tycoon/T/ZUF1.E",
+		"/Users/christian/Downloads/Pizza Tycoon/T/PERS.E",
+		"/Users/christian/Downloads/Pizza Tycoon/T/ENDE.E",
+		"/Users/christian/Downloads/Pizza Tycoon/T/GTALK0.E",
+		"/Users/christian/Downloads/Pizza Tycoon/T/DOUBLE.E",
+		"/Users/christian/Downloads/Pizza Tycoon/T/BG.E",
+		"/Users/christian/Downloads/Pizza Tycoon/T/ARTIKEL3.E",
+		"/Users/christian/Downloads/Pizza Tycoon/T/BANK.E",
+		"/Users/christian/Downloads/Pizza Tycoon/T/WERBUNG.E",
+		"/Users/christian/Downloads/Pizza Tycoon/T/BEWERB0.E",
+		"/Users/christian/Downloads/Pizza Tycoon/BOB/MOEBEL.BOB",
+		"/Users/christian/Downloads/Pizza Tycoon/BOB/ZUTATEN.BOB"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "headersorter.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								530,
+								530
+							]
+						],
+						"settings":
+						{
+							"SL.96.region_keys":
+							[
+							],
+							"color_helper.box_height": 17,
+							"color_helper.color_scheme": "Packages/User/SublimeLinter/Monokai Extended Origin (SL).tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".py",
+								"current_syntax": "Python/Python",
+								"enabled": false,
+								"last_updated": 1541004872.35
+							},
+							"git_gutter_is_enabled": false,
+							"markdonw_live_preview_last_run": 1541259897.24,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 114.0
+	},
+	"output.exec":
+	{
+		"height": 282.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 114.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 112.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 524.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "headersorter.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 179.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
